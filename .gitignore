@@ -21,6 +21,24 @@ build/
 build-iPhoneOS/
 build-iPhoneSimulator/
 
+# Ignore the default SQLite database.
+/db/*.sqlite3
+/db/*.sqlite3-journal
+
+# Ignore all logfiles and tempfiles.
+/log/*
+/tmp/*
+!/log/.keep
+!/tmp/.keep
+
+/node_modules
+/yarn-error.log
+
+.byebug_history
+
+# Ignore bundler config.
+/.bundle
+
 ## Specific to RubyMotion (use of CocoaPods):
 #
 # We recommend against adding the Pods directory to your .gitignore. However
