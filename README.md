@@ -2,7 +2,7 @@
 
 This repository is based on the GraphQL-Ruby tutorial found at the following link:
 
-* [GraphQL-Ruby] (https://www.howtographql.com/graphql-ruby/1-getting-started/)
+* [GraphQL-Ruby Tutorial](https://www.howtographql.com/graphql-ruby/1-getting-started/)
 
 ### Scope
 
